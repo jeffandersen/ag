@@ -1,0 +1,22 @@
+{
+  "name": "ag",
+  "version": "0.0.4",
+  "description": "ag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jeffandersen/ag.git"
+  },
+  "keywords": [
+    "ag"
+  ],
+  "author": "Jeff Andersen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffandersen/ag/issues"
+  },
+  "homepage": "https://github.com/jeffandersen/ag#readme"
+}
